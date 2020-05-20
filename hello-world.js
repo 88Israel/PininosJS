@@ -1,3 +1,3 @@
-functio lista(n){
+function lista(n){
   return n;
 }
